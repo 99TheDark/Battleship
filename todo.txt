@@ -1,0 +1,3 @@
+Only allow moving a ship if the mouse starts inside it
+Skips loading if spamming
+Show position in top left
